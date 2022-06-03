@@ -1,0 +1,2 @@
+00 10 * * * /home/ubuntu/git_pages/shell_scripting/2-disk_check.sh >> /home/ubuntu/storage_alert.txt
+# cron to run disk check S.H  file every day at At 10:00. and save the output at storage.txt file
